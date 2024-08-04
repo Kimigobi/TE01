@@ -13,3 +13,18 @@ C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\TE01\TE01 Client
 C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\TE01\TE01 Client\obj\Debug\net8.0\TE01 Client.pdb
 C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\TE01\TE01 Client\obj\Debug\net8.0\TE01 Client.genruntimeconfig.cache
 C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\TE01\TE01 Client\obj\Debug\net8.0\ref\TE01 Client.dll
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01 Client\bin\Debug\net8.0\TE01 Client.exe
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01 Client\bin\Debug\net8.0\TE01 Client.deps.json
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01 Client\bin\Debug\net8.0\TE01 Client.runtimeconfig.json
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01 Client\bin\Debug\net8.0\TE01 Client.dll
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01 Client\bin\Debug\net8.0\TE01 Client.pdb
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01 Client\obj\Debug\net8.0\TE01 Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01 Client\obj\Debug\net8.0\TE01 Client.AssemblyInfoInputs.cache
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01 Client\obj\Debug\net8.0\TE01 Client.AssemblyInfo.cs
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01 Client\obj\Debug\net8.0\TE01 Client.csproj.CoreCompileInputs.cache
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01 Client\obj\Debug\net8.0\TE01 Client.sourcelink.json
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01 Client\obj\Debug\net8.0\TE01 Client.dll
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01 Client\obj\Debug\net8.0\refint\TE01 Client.dll
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01 Client\obj\Debug\net8.0\TE01 Client.pdb
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01 Client\obj\Debug\net8.0\TE01 Client.genruntimeconfig.cache
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01 Client\obj\Debug\net8.0\ref\TE01 Client.dll

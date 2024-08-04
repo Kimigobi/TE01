@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Brad Sardi\\Desktop\\Algoritmos y estructuras de datos 1\\TE01\\TE01 Client\\TE01 Client.csproj": {}
+    "C:\\Users\\Brad Sardi\\Desktop\\Algoritmos y estructuras de datos 1\\Trabajo Extraclase 1\\TE01\\TE01 Client\\TE01 Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Brad Sardi\\Desktop\\Algoritmos y estructuras de datos 1\\TE01\\TE01 Client\\TE01 Client.csproj": {
+    "C:\\Users\\Brad Sardi\\Desktop\\Algoritmos y estructuras de datos 1\\Trabajo Extraclase 1\\TE01\\TE01 Client\\TE01 Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brad Sardi\\Desktop\\Algoritmos y estructuras de datos 1\\TE01\\TE01 Client\\TE01 Client.csproj",
+        "projectUniqueName": "C:\\Users\\Brad Sardi\\Desktop\\Algoritmos y estructuras de datos 1\\Trabajo Extraclase 1\\TE01\\TE01 Client\\TE01 Client.csproj",
         "projectName": "TE01 Client",
-        "projectPath": "C:\\Users\\Brad Sardi\\Desktop\\Algoritmos y estructuras de datos 1\\TE01\\TE01 Client\\TE01 Client.csproj",
+        "projectPath": "C:\\Users\\Brad Sardi\\Desktop\\Algoritmos y estructuras de datos 1\\Trabajo Extraclase 1\\TE01\\TE01 Client\\TE01 Client.csproj",
         "packagesPath": "C:\\Users\\Brad Sardi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brad Sardi\\Desktop\\Algoritmos y estructuras de datos 1\\TE01\\TE01 Client\\obj\\",
+        "outputPath": "C:\\Users\\Brad Sardi\\Desktop\\Algoritmos y estructuras de datos 1\\Trabajo Extraclase 1\\TE01\\TE01 Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Brad Sardi\\AppData\\Roaming\\NuGet\\NuGet.Config"

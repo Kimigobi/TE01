@@ -11,7 +11,7 @@ namespace TE01_Client{
             while (true){
 
                 message = Console.ReadLine();
-                client1.Send(message);
+                client1.sendMessage(message);
             }
             
             

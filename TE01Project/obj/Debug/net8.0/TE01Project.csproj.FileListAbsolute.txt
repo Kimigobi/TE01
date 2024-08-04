@@ -13,3 +13,18 @@ C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\TE01\TE01Project
 C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\TE01\TE01Project\obj\Debug\net8.0\TE01Project.pdb
 C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\TE01\TE01Project\obj\Debug\net8.0\TE01Project.genruntimeconfig.cache
 C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\TE01\TE01Project\obj\Debug\net8.0\ref\TE01Project.dll
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01Project\bin\Debug\net8.0\TE01Project.exe
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01Project\bin\Debug\net8.0\TE01Project.deps.json
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01Project\bin\Debug\net8.0\TE01Project.runtimeconfig.json
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01Project\bin\Debug\net8.0\TE01Project.dll
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01Project\bin\Debug\net8.0\TE01Project.pdb
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01Project\obj\Debug\net8.0\TE01Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01Project\obj\Debug\net8.0\TE01Project.AssemblyInfoInputs.cache
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01Project\obj\Debug\net8.0\TE01Project.AssemblyInfo.cs
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01Project\obj\Debug\net8.0\TE01Project.csproj.CoreCompileInputs.cache
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01Project\obj\Debug\net8.0\TE01Project.sourcelink.json
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01Project\obj\Debug\net8.0\TE01Project.dll
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01Project\obj\Debug\net8.0\refint\TE01Project.dll
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01Project\obj\Debug\net8.0\TE01Project.pdb
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01Project\obj\Debug\net8.0\TE01Project.genruntimeconfig.cache
+C:\Users\Brad Sardi\Desktop\Algoritmos y estructuras de datos 1\Trabajo Extraclase 1\TE01\TE01Project\obj\Debug\net8.0\ref\TE01Project.dll
